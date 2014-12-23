@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# BruXy fixed_point
+# Based on: BruXy fixed_point
 # http://bruxy.regnet.cz/web/linux/EN/mandelbrot-set-in-bash/
 #
 

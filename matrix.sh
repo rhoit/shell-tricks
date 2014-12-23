@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #
-# [mat!rix] (c) 2011 -- [ BruXy ]
+# Based on: [mat!rix] (c) 2011 -- [ BruXy ]
 # http://bruxy.regnet.cz/web/linux/EN/matrix-sh/
 
 function strain_flow {

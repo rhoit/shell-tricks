@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 #
-# http://stackoverflow.com/questions/171563/whats-in-your-zshrc
+# Based on: http://stackoverflow.com/questions/171563/whats-in-your-zshrc
 # exploiting the floating point support of zsh
 
 lines columns colour a b p q i pnew
