@@ -25,6 +25,7 @@ function neat_terminate {
 	tput cnorm # show cursor
 	stty echo # enable output
 	tput cup $LINES 0
+    exit
 }
 
 # echo -e "\e[1;40m"
