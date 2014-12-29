@@ -8,7 +8,7 @@ function strain_flow {
     x=$[RANDOM%COLUMNS] y=$[RANDOM%LINES]
     for ((i=1; i < $LINES; i++)); do
         char=$(printf '\\0%o' $[RANDOM%26+97])
-        echo -e "\e[$[i-1];${x}H\e[0;32m$char\e[$i;${x}H\e[1;37m"$c
+        echo -e "\e[$[i-1];${x}H\e[0;32m$char\e[$i;${x}H\e[1;37m"$char
         sleep 0.1
         if (( $i > $y )); then
             echo -e "\e[$[i-y];${x}H "
