@@ -1,0 +1,22 @@
+#+TITLE: Shell Tricks
+#+DESCRIPTION: trickle treat script for shell
+
+#+OPTIONS: num:0
+#+STARTUP: showall
+
+Exploration and exploitation of nothing! Let your shell do some fancy
+tricks.
+
+*** cowfortune
+[[https://raw.githubusercontent.com/rhoit/shell-tricks/dump/images/cowfortune.png]]
+
+*** mandelbrot
+[[https://raw.githubusercontent.com/rhoit/shell-tricks/dump/images/mandelbrot.png]]
+
+*** matrix
+[[https://raw.githubusercontent.com/rhoit/shell-tricks/dump/images/matrix.png]]
+
+*** References
+
+http://bruxy.regnet.cz/
+http://www.climagic.org/coolstuff/

@@ -1,9 +1,11 @@
+#!/bin/bash
+
 #
 # cowfortune
 # cowsay with fortune
 
 # for {zsh,bash} compatibility
-# case implementation coz array are different
+# case implementation coz zsh-array index starts from 1
 
 case $(($RANDOM%2)) in
 	0) dialogue="say";;
